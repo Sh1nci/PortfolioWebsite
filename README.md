@@ -8,4 +8,5 @@ A modern, responsive portfolio website showcasing professional work and skills. 
 - Sections for About, Projects, Skills, and Contact
 - Smooth scrolling navigation
 - Contact form
+- Dark and light mode
 
